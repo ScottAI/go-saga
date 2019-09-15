@@ -2,9 +2,9 @@ package kafka
 
 import (
 	"github.com/Shopify/sarama"
-	"github.com/juju/errors"
 	"github.com/cikupin/go-saga"
 	"github.com/cikupin/go-saga/storage"
+	"github.com/juju/errors"
 	"github.com/lysu/kazoo-go"
 	"strings"
 	"sync"
