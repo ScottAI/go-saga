@@ -4,11 +4,12 @@ import (
 	"golang.org/x/net/context"
 
 	"fmt"
-	"github.com/lysu/go-saga"
-	_ "github.com/lysu/go-saga/storage/kafka"
-	"github.com/stretchr/testify/assert"
 	"testing"
 	"time"
+
+	"github.com/cikupin/go-saga"
+	_ "github.com/cikupin/go-saga/storage/kafka"
+	"github.com/stretchr/testify/assert"
 )
 
 func initKafka(mode FailureMode) {

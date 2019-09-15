@@ -1,11 +1,12 @@
 package saga_test
 
 import (
-	"golang.org/x/net/context"
 	"time"
 
-	"github.com/lysu/go-saga"
-	_ "github.com/lysu/go-saga/storage/kafka"
+	"golang.org/x/net/context"
+
+	"github.com/cikupin/go-saga"
+	_ "github.com/cikupin/go-saga/storage/kafka"
 )
 
 // This example show how to initialize an Saga execution coordinator(SEC) and add Sub-transaction to it, then start a transfer transaction.

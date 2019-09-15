@@ -1,10 +1,11 @@
 package memory
 
 import (
-	"github.com/juju/errors"
-	"github.com/lysu/go-saga"
-	"github.com/lysu/go-saga/storage"
 	"sync"
+
+	"github.com/cikupin/go-saga"
+	"github.com/cikupin/go-saga/storage"
+	"github.com/juju/errors"
 )
 
 var storageInstance storage.Storage
