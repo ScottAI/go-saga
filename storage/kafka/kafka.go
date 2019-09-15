@@ -5,7 +5,7 @@ import (
 	"github.com/juju/errors"
 	"github.com/cikupin/go-saga"
 	"github.com/cikupin/go-saga/storage"
-	"github.com/cikupin/kazoo-go"
+	"github.com/lysu/kazoo-go"
 	"strings"
 	"sync"
 	"time"
