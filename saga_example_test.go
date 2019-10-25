@@ -5,8 +5,8 @@ import (
 
 	"golang.org/x/net/context"
 
-	"go-saga"
-	_ "go-saga/storage/kafka"
+	"github.com/ScottAI/go-saga"
+	_ "github.com/ScottAI/go-saga/storage/kafka"
 )
 
 // This example show how to initialize an Saga execution coordinator(SEC) and add Sub-transaction to it, then start a transfer transaction.

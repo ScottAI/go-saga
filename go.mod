@@ -1,4 +1,4 @@
-module go-saga
+module github.com/ScottAI/go-saga
 
 go 1.12
 

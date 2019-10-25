@@ -2,8 +2,8 @@ package kafka
 
 import (
 	"github.com/Shopify/sarama"
-	"go-saga"
-	"go-saga/storage"
+	"github.com/ScottAI/go-saga"
+	"github.com/ScottAI/go-saga/storage"
 	"github.com/juju/errors"
 	"github.com/lysu/kazoo-go"
 	"strings"

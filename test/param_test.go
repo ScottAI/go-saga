@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"go-saga"
+	"github.com/ScottAI/go-saga"
 	"golang.org/x/net/context"
 )
 

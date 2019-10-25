@@ -3,8 +3,8 @@ package memory
 import (
 	"sync"
 
-	"go-saga"
-	"go-saga/storage"
+	"github.com/ScottAI/go-saga"
+	"github.com/ScottAI/go-saga/storage"
 	"github.com/juju/errors"
 )
 
