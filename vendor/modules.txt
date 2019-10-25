@@ -1,5 +1,10 @@
+# github.com/ScottAI/go-saga v1.0.0
+github.com/ScottAI/go-saga/storage/memory
 # github.com/Shopify/sarama v1.24.0
 github.com/Shopify/sarama
+# github.com/cikupin/go-saga v1.0.0
+github.com/cikupin/go-saga
+github.com/cikupin/go-saga/storage
 # github.com/davecgh/go-spew v1.1.1
 github.com/davecgh/go-spew/spew
 # github.com/eapache/go-resiliency v1.1.0
