@@ -3,8 +3,8 @@ package memory
 import (
 	"sync"
 
-	"github.com/cikupin/go-saga"
-	"github.com/cikupin/go-saga/storage"
+	"go-saga"
+	"go-saga/storage"
 	"github.com/juju/errors"
 )
 

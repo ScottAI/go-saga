@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/cikupin/go-saga"
-	_ "github.com/cikupin/go-saga/storage/kafka"
+	"go-saga"
+	_ "go-saga/storage/kafka"
 	"github.com/stretchr/testify/assert"
 )
 

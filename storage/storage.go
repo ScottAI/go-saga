@@ -2,7 +2,7 @@ package storage
 
 import "time"
 
-// Storage uses to support save and lookup saga log.
+// Storage 定义存储和查找saga日志的接口
 type Storage interface {
 
 	// AppendLog appends log data into log under given logID

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/cikupin/go-saga"
-	_ "github.com/cikupin/go-saga/storage/memory"
+	"go-saga"
+	_ "go-saga/storage/memory"
 	"github.com/stretchr/testify/assert"
 	"golang.org/x/net/context"
 )

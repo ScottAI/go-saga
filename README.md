@@ -11,9 +11,3 @@ _**Note** : This a modified version version of [lysu/go-saga](https://github.com
 
 - API documentation and examples are available via [godoc](https://godoc.org/github.com/cikupin/go-saga).
 
-### Examples
-
-Examples can be found here:
-
-- [https://godoc.org/github.com/cikupin/go-saga](https://godoc.org/github.com/cikupin/go-saga)
-- [https://github.com/cikupin/saga-simple-example](https://github.com/cikupin/saga-simple-example)

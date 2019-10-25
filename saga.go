@@ -14,7 +14,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/cikupin/go-saga/storage"
+	"go-saga/storage"
 	"golang.org/x/net/context"
 )
 
